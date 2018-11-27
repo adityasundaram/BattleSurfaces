@@ -1,0 +1,50 @@
+url: https://adityasundaram.github.io
+baseurl: /BattleSurfaces/
+
+# Site settings
+title: Team Battle Surfaces
+email: adityasu@usc.edu
+description: "This is the official website for Augmented Reality App - Battle Surfaces built at USC Gamepip Labarotory"
+
+
+# Team names, titles and social links
+people:
+- name: Kishan Kesavan
+  pic: 1
+  position: Engineer
+  social:
+    - title: github
+      url: https://github.com/KishanKesavan
+    - title: linkedin
+      url: https://www.linkedin.com/in/kishank7/
+
+- name: Shivnesh Rajan
+  pic: 2
+  position: Engineer
+  social:
+    - title: github
+      url: https://github.com/shivneshr
+    - title: linkedin
+      url: https://www.linkedin.com/in/shivnesh-rajan/
+
+- name: Aditya Sundaram
+  pic: 3
+  position: Engineer
+  social:
+    - title: github
+      url: https://github.com/adityasundaram
+    - title: linkedin
+      url: https://www.linkedin.com/in/adityasundaram/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/adityasundaram/AugmentedReality
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Los Angeles, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
