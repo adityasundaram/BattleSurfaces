@@ -17,6 +17,10 @@ body {
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }
+.video {
+    width: 70%;
+    height: 20%;
+}
 
 p {
     font-size: 14px;
