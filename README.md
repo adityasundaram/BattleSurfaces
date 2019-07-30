@@ -1,7 +1,7 @@
 Website for Augmented Reality App - Battle Surfaces
 ====================
 
-###Team
+### Team
 
 Team 
 
